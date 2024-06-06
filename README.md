@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello! I'm Miguel, a dedicated software developer with a strong inclination towards frontend development a growing interest in backend technologies.
+👋 Hello! I'm Miguel, a dedicated software developer with a strong inclination towards frontend development and a growing interest in backend technologies.
 
 💻 Skills:
 
