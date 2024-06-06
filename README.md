@@ -18,4 +18,4 @@ My goal is to become a full-stack developer and build innovative solutions that 
 
 📧 Contact Information:
 
-Feel free to reach out to me via email at [miguel.gonzalez1547@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/miguel-enrique-gonz%C3%A1lez-arellano-63a60a234/]. I'm always open to new opportunities!
+Feel free to reach out to me via email at [miguel.gonzalez1547@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/miguel-enrique-gonzalez-arellano/]. I'm always open to new opportunities!
